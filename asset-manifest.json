@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recipe-suggestion-website/static/css/main.593d0528.css",
+    "main.js": "/recipe-suggestion-website/static/js/main.bd1c519d.js",
+    "index.html": "/recipe-suggestion-website/index.html",
+    "main.593d0528.css.map": "/recipe-suggestion-website/static/css/main.593d0528.css.map",
+    "main.bd1c519d.js.map": "/recipe-suggestion-website/static/js/main.bd1c519d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.593d0528.css",
+    "static/js/main.bd1c519d.js"
+  ]
+}
